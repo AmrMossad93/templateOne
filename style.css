@@ -242,6 +242,5 @@ hr{
 .copyright a:hover{
     color: #fff;
     text-decoration: none;
-    transform: translateY(-10px);
     background-image: linear-gradient(to right, #57bde6, #005eb5);
 }
